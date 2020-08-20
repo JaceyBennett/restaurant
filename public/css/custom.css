@@ -1,0 +1,19 @@
+body {
+    font-family: 'Amatic SC', cursive;
+}
+
+.navbar a {
+    font-family: 'Crimson Text', serif;
+    font-size: 20px
+}
+
+.navbar a.logo {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.main-pic {
+    //max-height: 900px;
+}
